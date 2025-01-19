@@ -2,6 +2,17 @@
 
 Przykładowy plik README
 
+## 📖 Spis treści
+1. [Nagłówki](#nagłówki)
+2. [Formatowanie tekstu](#formatowanie-tekstu)
+3. [Listy](#listy)
+4. [Linki i obrazy](#linki-i-obrazy)
+5. [Kod](#kod)
+6. [Tabele](#tabele)
+7. [Cytaty](#cytaty)
+8. [Emotikony i ikony](#emotikony-i-ikony)
+9. [Checkboxy](#checkboxy)
+10. [Zaawansowane funkcje](#zaawansowane-funkcje)
 ---
 
 ## 📝 Nagłówki
