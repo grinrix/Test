@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\aaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\aaa.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\aaa.AssemblyInfo.cs
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\aaa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\aaa\bin\Debug\net9.0\aaa.exe
+C:\Users\Asus\Desktop\aaa\bin\Debug\net9.0\aaa.deps.json
+C:\Users\Asus\Desktop\aaa\bin\Debug\net9.0\aaa.runtimeconfig.json
+C:\Users\Asus\Desktop\aaa\bin\Debug\net9.0\aaa.dll
+C:\Users\Asus\Desktop\aaa\bin\Debug\net9.0\aaa.pdb
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\aaa.dll
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\refint\aaa.dll
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\aaa.pdb
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\aaa.genruntimeconfig.cache
+C:\Users\Asus\Desktop\aaa\obj\Debug\net9.0\ref\aaa.dll
