@@ -8,11 +8,6 @@ Przykładowy plik README
 3. [Listy](#listy)
 4. [Linki i obrazy](#linki-i-obrazy)
 5. [Kod](#kod)
-6. [Tabele](#tabele)
-7. [Cytaty](#cytaty)
-8. [Emotikony i ikony](#emotikony-i-ikony)
-9. [Checkboxy](#checkboxy)
-10. [Zaawansowane funkcje](#zaawansowane-funkcje)
 ---
 
 ## 📝 Nagłówki
@@ -55,14 +50,11 @@ Możesz formatować tekst w różny sposób:
 [Odwiedź GitHub](https://github.com)
 
 ### Obrazek:
-![Przykład obrazka](https://via.placeholder.com/150 "Przykładowy obrazek")
+![Przykład obrazka](https://miro.medium.com/v2/resize:fit:1100/1*CWFkh5z8oa6dZfn5_gkKKQ.jpeg "Przykładowy obrazek")
 
 ---
 
 ## Kod
-
-### Kod w linii:
-`console.log("Hello, World!");`
 
 ### Blok kodu (Python):
 ```python
